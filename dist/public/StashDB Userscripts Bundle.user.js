@@ -14,12 +14,12 @@
 // @grant       GM.setValue
 // @grant       GM.listValues
 // @grant       GM.xmlHttpRequest
-// @require     https://raw.githubusercontent.com/7dJx1qP/stashdb-userscripts/master/src\StashDBUserscriptLibrary.js
+// @require     https://raw.githubusercontent.com/Asparghus/stashdb-userscripts/master/src\StashDBUserscriptLibrary.js
 //
 // **************************************************************************************************
 // *            YOU MAY REMOVE ANY OF THE @require LINES BELOW FOR SCRIPTS YOU DO NOT WANT          *
 // **************************************************************************************************
 //
-// @require     https://raw.githubusercontent.com/7dJx1qP/stashdb-userscripts/master/src/body\StashDB Copy StashID.user.js
+// @require     https://raw.githubusercontent.com/Asparghus/stashdb-userscripts/master/src/body\StashDB Copy StashID.user.js
 
 // ==/UserScript==
